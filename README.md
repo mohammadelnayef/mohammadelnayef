@@ -46,6 +46,6 @@ An ambitious web developer with a strong passion for software and hardware 💻.
 ### 📫 Contact Me
 
 - **[Linkedin](https://www.linkedin.com/in/mohammad-elnayef/)**
-- **[Gmail](mohammadelnayef@gmail.com)**
+- **<a href="mailto:mohammadelnayef@gmail.com">Gmail<a>**
 - **[Instagram](https://www.instagram.com/mohammad_eln/)**
 - **[elnayef.com](https://elnayef.com)**
