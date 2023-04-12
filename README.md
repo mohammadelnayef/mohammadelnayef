@@ -6,7 +6,8 @@ An ambitious web developer with a strong passion for software and hardware 💻.
 
 ### 💼 Work Experience: 
 
- - **Web Developer @ eMag.ro** | FEB 2023 - now
+ - **Wev Developer @ Heimdal** | Apr 2023 - now
+ - **Web Developer @ eMag.ro** | FEB 2023 - Apr 2023
  - **Wev Developer @ Heimdal** | Jan 2021 - Jan 2023
  - **Learning & Freelancing** | Jan 2019 - Dec 2020 
 
